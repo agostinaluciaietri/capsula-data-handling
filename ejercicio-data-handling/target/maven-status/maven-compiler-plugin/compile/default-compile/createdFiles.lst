@@ -1,0 +1,5 @@
+repository\UsuarioRepository.class
+service\UsuarioService.class
+model\Usuario.class
+com\ejerciciosjavasharks\ejerciciodatahandling\EjercicioDataHandlingApplication.class
+controller\UsuarioController.class
